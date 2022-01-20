@@ -1,2 +1,2 @@
 # HiLo
-Simple Guessing game
+Simple terminal user input Guessing game
